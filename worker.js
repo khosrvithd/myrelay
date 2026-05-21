@@ -1,4 +1,4 @@
-const WORKER_HOST = "nameless-brook-c9e4.khosrvithd.workers.dev";
+const WORKER_HOST = "flat-dawn-3806.khosrvithd.workers.dev";
 
 export default {
   async fetch(request) {
